@@ -28,7 +28,7 @@ a {
 .s-layout__content {
    flex: 1;
    padding-top: 3.2%;
-   height: auto;
+   height: 10%; 
    /* display: flex;  
    align-items: center;
    justify-content: center;
