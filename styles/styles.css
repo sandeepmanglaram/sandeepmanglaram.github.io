@@ -457,7 +457,7 @@ Title
    .col-md-12{padding:5px 0px;}
    .box-a {height:125px !important;} 
    .box-a a {line-height:125px;}
-   .box-c{ height : 2.7% ;}
+   .box-c{ height:2.7%;}
  }
  
  .normal-underline,
@@ -505,10 +505,3 @@ Title
    left: 5%;
      transition: 0.5s ease all;
  }
- 
- 
-
- 
-
-
- 
