@@ -28,7 +28,7 @@ a {
 .s-layout__content {
    flex: 1;
    padding-top: 3.2%;
-   height: 10%; 
+   height: auto; 
    /* display: flex;  
    align-items: center;
    justify-content: center;
@@ -180,6 +180,7 @@ a {
       left: 0;
    }
    
+   
    .s-sidebar__nav:hover,
    .s-sidebar__nav:focus,
    .s-sidebar__trigger:hover + .s-sidebar__nav,
@@ -190,6 +191,8 @@ a {
    #pp{
       width:auto;
    }
+   .s-layout__content {
+      height : 0;}
 }
 
 @media (min-width: 68em) {
