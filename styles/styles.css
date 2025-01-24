@@ -136,6 +136,14 @@ a {
    color: #0040ff;
    
 }
+
+#sidebar ul li a image{
+   text-decoration: none;
+   font-family: Quicksand,Arial,sans-serif;
+   /* color: #0040ff; */
+   
+}
+
 #sidebar ul li a:hover{
    color:white;        
 }
